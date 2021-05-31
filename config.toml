@@ -1,5 +1,0 @@
-[params.utteranc]
-  enable = true
-  repo = "443158068/blog_comment"
-  issueTerm = "pathname"
-  theme = "github-light"
