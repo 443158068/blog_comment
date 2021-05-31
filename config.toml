@@ -1,0 +1,5 @@
+utterance:
+  enable: true
+  repo: '443158068/blog_comment'     #仓库名字,格式：你的用户ID/仓库名称，如：blog/utterance_repo
+  issue_term: 'title'            #映射配置
+  theme: 'github-light'          #主题
