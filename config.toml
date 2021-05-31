@@ -1,5 +1,5 @@
 [params.utteranc]
   enable = true
-  repo = "yunxd/hugoblogtalks" ##换成自己得
+  repo = "443158068/blog_comment"
   issueTerm = "pathname"
   theme = "github-light"
